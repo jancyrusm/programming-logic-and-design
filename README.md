@@ -1,1 +1,1 @@
-# programming-logic-and-design
+Programming activities from PLD class
