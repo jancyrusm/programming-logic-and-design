@@ -1,1 +1,1 @@
-Programming activities from PLD class
+Programming Activities from PLD class
